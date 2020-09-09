@@ -1,0 +1,22 @@
+
+Begin optimization report for: HISTFILEMOD::UPDATE_HBUF
+
+    Report from: OpenMP optimizations [openmp]
+
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp/models/lnd/clm2/src/main/histFileMod.F90(1060,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp/models/lnd/clm2/src/main/histFileMod.F90(1071,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp/models/lnd/clm2/src/main/histFileMod.F90(1086,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp/models/lnd/clm2/src/main/histFileMod.F90(1098,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp/models/lnd/clm2/src/main/histFileMod.F90(1114,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp/models/lnd/clm2/src/main/histFileMod.F90(1126,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp/models/lnd/clm2/src/main/histFileMod.F90(1142,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp/models/lnd/clm2/src/main/histFileMod.F90(1154,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+===========================================================================

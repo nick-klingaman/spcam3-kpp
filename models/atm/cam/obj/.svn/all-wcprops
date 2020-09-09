@@ -1,0 +1,1097 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj
+END
+pftvarcon.mod
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/pftvarcon.mod
+END
+test_tracers.mod
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/test_tracers.mod
+END
+units.mod
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/units.mod
+END
+gauaw_mod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/gauaw_mod.mod
+END
+spmd_phys.mod
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/spmd_phys.mod
+END
+qsatmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/qsatmod.mod
+END
+cloudsimulatorparms.mod
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/cloudsimulatorparms.mod
+END
+cldwat.mod
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/cldwat.mod
+END
+dustmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/dustmod.mod
+END
+vertical_diffusion.mod
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/vertical_diffusion.mod
+END
+ecosystemdynmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/ecosystemdynmod.mod
+END
+biogeophysics1mod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/biogeophysics1mod.mod
+END
+aer_optics.mod
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/aer_optics.mod
+END
+seasalt_intr.mod
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/seasalt_intr.mod
+END
+mvegfilemod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/mvegfilemod.mod
+END
+shr_msg_mod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/shr_msg_mod.mod
+END
+rtmmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/rtmmod.mod
+END
+spmdmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/spmdmod.mod
+END
+biogeophysicslakemod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/biogeophysicslakemod.mod
+END
+histfilemod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/histfilemod.mod
+END
+diagnostics.mod
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/diagnostics.mod
+END
+rgrid.mod
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/rgrid.mod
+END
+areamod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/areamod.mod
+END
+turbulence.mod
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/turbulence.mod
+END
+system_messages.mod
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/system_messages.mod
+END
+restfilemod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/restfilemod.mod
+END
+surffilemod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/surffilemod.mod
+END
+weticehydrologymod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/weticehydrologymod.mod
+END
+preproc.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/preproc.h
+END
+check_energy.mod
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/check_energy.mod
+END
+restart_physics.mod
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/restart_physics.mod
+END
+so4bnd.mod
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/so4bnd.mod
+END
+geopotential.mod
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/geopotential.mod
+END
+Srcfiles
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/Srcfiles
+END
+srchutil.mod
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/srchutil.mod
+END
+initializemod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/initializemod.mod
+END
+dynconst.mod
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/dynconst.mod
+END
+constituents.mod
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/constituents.mod
+END
+cldconst.mod
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/cldconst.mod
+END
+restart_dynamics.mod
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/restart_dynamics.mod
+END
+iobinary.mod
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/iobinary.mod
+END
+hydrologylakemod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/hydrologylakemod.mod
+END
+clm_csmmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/clm_csmmod.mod
+END
+atm_lndmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/atm_lndmod.mod
+END
+error_messages.mod
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/error_messages.mod
+END
+canopyfluxesmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/canopyfluxesmod.mod
+END
+moistconvection.mod
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/moistconvection.mod
+END
+surfaceradiationmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/surfaceradiationmod.mod
+END
+shr_file_mod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/shr_file_mod.mod
+END
+pkg_cld_sediment.mod
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/pkg_cld_sediment.mod
+END
+fracwetmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/fracwetmod.mod
+END
+cloud_fraction.mod
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/cloud_fraction.mod
+END
+ice_constants.mod
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/ice_constants.mod
+END
+mapxy.mod
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/mapxy.mod
+END
+carbon_intr.mod
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/carbon_intr.mod
+END
+sulchem.mod
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/sulchem.mod
+END
+shr_const_mod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/shr_const_mod.mod
+END
+chemistry.mod
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/chemistry.mod
+END
+soilhydrologymod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/soilhydrologymod.mod
+END
+buffer.mod
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/buffer.mod
+END
+config_cache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/config_cache.xml
+END
+gw_drag.mod
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/gw_drag.mod
+END
+volcemission.mod
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/volcemission.mod
+END
+ice_dh.mod
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/ice_dh.mod
+END
+nanmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/nanmod.mod
+END
+acsf.mod
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/acsf.mod
+END
+commap.mod
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/commap.mod
+END
+clm_varsur.mod
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/clm_varsur.mod
+END
+driverinitmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/driverinitmod.mod
+END
+sulemis.mod
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/sulemis.mod
+END
+globals.mod
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/globals.mod
+END
+restart.mod
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/restart.mod
+END
+dycore.mod
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/dycore.mod
+END
+string_utils.mod
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/string_utils.mod
+END
+ice_diagnostics.mod
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/ice_diagnostics.mod
+END
+sulbnd.mod
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/sulbnd.mod
+END
+phys_grid.mod
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/phys_grid.mod
+END
+surface.mod
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/surface.mod
+END
+shr_sys_mod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/shr_sys_mod.mod
+END
+ghg_surfvals.mod
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/ghg_surfvals.mod
+END
+shr_orb_mod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/shr_orb_mod.mod
+END
+caerbnd.mod
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/caerbnd.mod
+END
+aerosol_intr.mod
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/aerosol_intr.mod
+END
+shr_kind_mod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/shr_kind_mod.mod
+END
+history.mod
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/history.mod
+END
+scyc.mod
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/scyc.mod
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/misc.h
+END
+cldcond.mod
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/cldcond.mod
+END
+cloudsimulator.mod
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/cloudsimulator.mod
+END
+dust_sediment_mod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/dust_sediment_mod.mod
+END
+zm_conv.mod
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/zm_conv.mod
+END
+sulfur_intr.mod
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/sulfur_intr.mod
+END
+comsrfdiag.mod
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/comsrfdiag.mod
+END
+controlmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/controlmod.mod
+END
+pmgrid.mod
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/pmgrid.mod
+END
+inicfilemod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/inicfilemod.mod
+END
+clm_varcon.mod
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/clm_varcon.mod
+END
+ppgrid.mod
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/ppgrid.mod
+END
+clmpoint.mod
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/clmpoint.mod
+END
+ice_globalcalcs.mod
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/ice_globalcalcs.mod
+END
+clm_mapping.mod
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/clm_mapping.mod
+END
+clm_varpar.mod
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/clm_varpar.mod
+END
+runtime_opts.mod
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/runtime_opts.mod
+END
+comsrf.mod
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/comsrf.mod
+END
+ccsm_msg.mod
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/ccsm_msg.mod
+END
+shr_timer_mod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/shr_timer_mod.mod
+END
+crmdims.mod
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/crmdims.mod
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/Makefile
+END
+surfacealbedomod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/surfacealbedomod.mod
+END
+clmtypeinitmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/clmtypeinitmod.mod
+END
+param_cldoptics.mod
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/param_cldoptics.mod
+END
+ice_tstm.mod
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/ice_tstm.mod
+END
+acbnd.mod
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/acbnd.mod
+END
+comozp.mod
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/comozp.mod
+END
+dmsbnd.mod
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/dmsbnd.mod
+END
+radheat.mod
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/radheat.mod
+END
+dust_intr.mod
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/dust_intr.mod
+END
+spmd_dyn.mod
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/spmd_dyn.mod
+END
+baregroundfluxesmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/baregroundfluxesmod.mod
+END
+dust.mod
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/dust.mod
+END
+balancecheckmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/balancecheckmod.mod
+END
+ramp_so4_mod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/ramp_so4_mod.mod
+END
+soiltemperaturemod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/soiltemperaturemod.mod
+END
+clm_varctl.mod
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/clm_varctl.mod
+END
+drydep_mod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/drydep_mod.mod
+END
+pft2columnmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/pft2columnmod.mod
+END
+accumulmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/accumulmod.mod
+END
+phys_gmean.mod
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/phys_gmean.mod
+END
+comhd.mod
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/comhd.mod
+END
+frictionvelocitymod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/frictionvelocitymod.mod
+END
+atmdrvmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/atmdrvmod.mod
+END
+hydrology2mod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/hydrology2mod.mod
+END
+sst_data.mod
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/sst_data.mod
+END
+filenames.mod
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/filenames.mod
+END
+Depends
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/Depends
+END
+physics_types.mod
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/physics_types.mod
+END
+iofilemod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/iofilemod.mod
+END
+infnan.mod
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/infnan.mod
+END
+binary_io.mod
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/binary_io.mod
+END
+radae.mod
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/radae.mod
+END
+mkgridmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/mkgridmod.mod
+END
+clmtype.mod
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/clmtype.mod
+END
+mpiinc.mod
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/mpiinc.mod
+END
+histfldsmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/histfldsmod.mod
+END
+lnd_grid.mod
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/lnd_grid.mod
+END
+comspe.mod
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/comspe.mod
+END
+time_manager.mod
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/time_manager.mod
+END
+wetdep.mod
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/wetdep.mod
+END
+ice_sfc_flux.mod
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/ice_sfc_flux.mod
+END
+physconst.mod
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/physconst.mod
+END
+tridiagonalmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/tridiagonalmod.mod
+END
+vocemissionmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/vocemissionmod.mod
+END
+dyn_grid.mod
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/dyn_grid.mod
+END
+accfldsmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/accfldsmod.mod
+END
+mpishorthand.mod
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/mpishorthand.mod
+END
+fileutils.mod
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/fileutils.mod
+END
+lnd2atmmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/lnd2atmmod.mod
+END
+hydrology1mod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/hydrology1mod.mod
+END
+comslt.mod
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/comslt.mod
+END
+dp_coupling.mod
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/dp_coupling.mod
+END
+wv_saturation.mod
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/wv_saturation.mod
+END
+inidat.mod
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/inidat.mod
+END
+prognostics.mod
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/prognostics.mod
+END
+caer.mod
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/caer.mod
+END
+mksrfdatmod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/mksrfdatmod.mod
+END
+lp_coupling.mod
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/lp_coupling.mod
+END
+phys_buffer.mod
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/phys_buffer.mod
+END
+Filepath
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/Filepath
+END
+spmd_utils.mod
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/spmd_utils.mod
+END
+pkg_cldoptics.mod
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/pkg_cldoptics.mod
+END
+ice_kinds_mod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/ice_kinds_mod.mod
+END
+aerosols.mod
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/aerosols.mod
+END
+snowhydrologymod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/snowhydrologymod.mod
+END
+rnozunit.mod
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/rnozunit.mod
+END
+ice_data.mod
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/ice_data.mod
+END
+biogeophysics2mod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/biogeophysics2mod.mod
+END
+shr_vmath_mod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/shr_vmath_mod.mod
+END
+params.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/params.h
+END
+biogeochemistrymod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/biogeochemistrymod.mod
+END
+ice_ocn_flux.mod
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/ice_ocn_flux.mod
+END
+soxbnd.mod
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/soxbnd.mod
+END
+pspect.mod
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/obj/pspect.mod
+END

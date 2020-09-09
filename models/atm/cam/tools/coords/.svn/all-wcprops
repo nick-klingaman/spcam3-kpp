@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/coords
+END
+a.out
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/coords/a.out
+END
+hya.48
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/coords/hya.48
+END
+hybrid_coefs.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/coords/hybrid_coefs.ncl
+END
+hyb.48
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/coords/hyb.48
+END
+rewrite.f90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/coords/rewrite.f90
+END

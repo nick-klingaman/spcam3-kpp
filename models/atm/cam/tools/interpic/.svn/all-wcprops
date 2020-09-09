@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic
+END
+varspecs_mod.f90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/varspecs_mod.f90
+END
+dimensions.mod
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/dimensions.mod
+END
+template.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/template.ncl
+END
+fmain.f90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/fmain.f90
+END
+driver.f90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/driver.f90
+END
+wrap_nf.f90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/wrap_nf.f90
+END
+fill_positions.f90
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/fill_positions.f90
+END
+compare_var.f90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/compare_var.f90
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/README
+END
+shr_kind_mod.f90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/shr_kind_mod.f90
+END
+control.mod
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/control.mod
+END
+lininterp.f90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/lininterp.f90
+END
+is_special_case.f90
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/is_special_case.f90
+END
+varspecs_mod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/varspecs_mod.mod
+END
+dimensions.f90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/dimensions.f90
+END
+addglobal.f90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/addglobal.f90
+END
+handle_special_cases.f90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/handle_special_cases.f90
+END
+cpvar.f90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/cpvar.f90
+END
+create_template.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/create_template.ncl
+END
+interp_driver.f90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/interp_driver.f90
+END
+fill_positions.mod
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/fill_positions.mod
+END
+SEP1.T7L48.gaussian.template.nc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/SEP1.T7L48.gaussian.template.nc
+END
+control.f90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/control.f90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/Makefile
+END
+interpic
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/interpic
+END
+err_exit.f90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/err_exit.f90
+END
+shr_kind_mod.mod
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpic/shr_kind_mod.mod
+END

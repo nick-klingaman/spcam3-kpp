@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/solaris
+END
+buildtest
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/solaris/buildtest
+END
+base_variables
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/solaris/base_variables
+END
+ESMF_conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/solaris/ESMF_conf.h
+END
+base
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/solaris/base
+END
+fix.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/solaris/fix.h
+END
+base.site
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/solaris/base.site
+END
+base_variables.start
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/solaris/base_variables.start
+END

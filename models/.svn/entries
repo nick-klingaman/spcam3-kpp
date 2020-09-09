@@ -1,0 +1,52 @@
+10
+
+dir
+350
+https://svn.sdsc.edu/repo/cmmap/cam3_sp/branches/pritchard/models
+https://svn.sdsc.edu/repo/cmmap
+
+
+
+2014-01-23T17:49:08.148259Z
+350
+mpritcha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d340fac9-8071-0410-8926-86793a3c882d
+
+ice
+dir
+
+utils
+dir
+
+atm
+dir
+
+atmlnd_share
+dir
+
+bld
+dir
+
+csm_share
+dir
+
+CVS
+dir
+
+lnd
+dir
+

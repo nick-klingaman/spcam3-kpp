@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/config
+END
+base.in
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/config/base.in
+END
+petscconf.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/config/petscconf.h.in
+END
+base.opt.in
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/config/base.opt.in
+END
+petscfix.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/config/petscfix.h.in
+END
+base.site.in
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/config/base.site.in
+END
+base_variables.in
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/config/base_variables.in
+END

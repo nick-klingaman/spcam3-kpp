@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/mkrgridsst
+END
+chkdims.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/mkrgridsst/chkdims.F90
+END
+lininterp.F90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/mkrgridsst/lininterp.F90
+END
+fmain.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/mkrgridsst/fmain.F90
+END
+wrap_nf.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/mkrgridsst/wrap_nf.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/mkrgridsst/Makefile
+END

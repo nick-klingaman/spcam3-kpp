@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/csm_share
+END
+shr_sys_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/csm_share/shr_sys_mod.F90
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/csm_share/ChangeLog
+END
+shr_file_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/csm_share/shr_file_mod.F90
+END
+shr_vmath_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/csm_share/shr_vmath_mod.F90
+END
+shr_timer_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/csm_share/shr_timer_mod.F90
+END
+ChangeSum
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/csm_share/ChangeSum
+END
+shr_orb_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/csm_share/shr_orb_mod.F90
+END
+shr_vmath_fwrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/csm_share/shr_vmath_fwrap.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/csm_share/README
+END
+shr_kind_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/csm_share/shr_kind_mod.F90
+END
+README.scm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/csm_share/README.scm
+END
+shr_const_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/csm_share/shr_const_mod.F90
+END
+shr_msg_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/csm_share/shr_msg_mod.F90
+END

@@ -1,0 +1,665 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper
+END
+cond.F90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/cond.F90
+END
+ppgrid.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/ppgrid.F90
+END
+comsol.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/comsol.h
+END
+initindx.F90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/initindx.F90
+END
+ramp_ghg_stab.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/ramp_ghg_stab.h
+END
+aer_optics.F90
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/aer_optics.F90
+END
+raddedmx.F90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/raddedmx.F90
+END
+seasalt_intr.F90
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/seasalt_intr.F90
+END
+comsrf.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/comsrf.F90
+END
+tphysidl.F90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/tphysidl.F90
+END
+crdcon.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/crdcon.h
+END
+volcemission.F
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/volcemission.F
+END
+zenith.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/zenith.F90
+END
+acsf.F
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/acsf.F
+END
+param_cldoptics.F90
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/param_cldoptics.F90
+END
+dmsbnd.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/dmsbnd.F90
+END
+diagnostics.F90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/diagnostics.F90
+END
+acbnd.F90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/acbnd.F90
+END
+radheat.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/radheat.F90
+END
+turbulence.F90
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/turbulence.F90
+END
+dust_intr.F90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/dust_intr.F90
+END
+tphysbc.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/tphysbc.F90
+END
+qneg3a.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/qneg3a.F90
+END
+dust.F90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/dust.F90
+END
+surface.F
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/surface.F
+END
+ramp_so4_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/ramp_so4_mod.F90
+END
+drydep_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/drydep_mod.F90
+END
+check_energy.F90
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/check_energy.F90
+END
+restart_physics.F90
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/restart_physics.F90
+END
+radcswmx.F90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/radcswmx.F90
+END
+ramp.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/ramp.h
+END
+phys_gmean.F90
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/phys_gmean.F90
+END
+geopotential.F90
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/geopotential.F90
+END
+constituents.F90
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/constituents.F90
+END
+physics_types.F90
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/physics_types.F90
+END
+cldconst.F90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/cldconst.F90
+END
+radctl.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/radctl.F90
+END
+tsinti.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/tsinti.F90
+END
+radae.F90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/radae.F90
+END
+convmom.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/convmom.F90
+END
+comtsc.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/comtsc.h
+END
+moistconvection.F90
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/moistconvection.F90
+END
+physpkg.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/physpkg.F90
+END
+cldinti.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/cldinti.F90
+END
+comadj.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/comadj.h
+END
+wetdep.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/wetdep.F90
+END
+physconst.F90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/physconst.F90
+END
+pkg_cld_sediment.F90
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/pkg_cld_sediment.F90
+END
+esinti.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/esinti.F90
+END
+cloud_fraction.F90
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/cloud_fraction.F90
+END
+trcems.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/trcems.F90
+END
+carbon_intr.F90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/carbon_intr.F90
+END
+sulchem.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/sulchem.F90
+END
+radoz2.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/radoz2.F90
+END
+inti.F90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/inti.F90
+END
+phys_adiabatic.F90
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/phys_adiabatic.F90
+END
+wv_saturation.F90
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/wv_saturation.F90
+END
+trcmix.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/trcmix.F90
+END
+dadadj.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/dadadj.F90
+END
+chemistry.F90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/chemistry.F90
+END
+cpslec.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/cpslec.F90
+END
+buffer.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/buffer.F90
+END
+trcabn.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/trcabn.F90
+END
+gw_drag.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/gw_drag.F90
+END
+caer.F90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/caer.F90
+END
+cldnrh.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/cldnrh.F90
+END
+phys_buffer.F90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/phys_buffer.F90
+END
+srfxfer.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/srfxfer.F90
+END
+ramp_scon.F90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/ramp_scon.F90
+END
+sulemis.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/sulemis.F90
+END
+convmom_sim.F90.save
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/convmom_sim.F90.save
+END
+gffgch.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/gffgch.F90
+END
+pkg_cldoptics.F90
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/pkg_cldoptics.F90
+END
+aerosols.F90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/aerosols.F90
+END
+sulbnd.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/sulbnd.F90
+END
+phys_grid.F90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/phys_grid.F90
+END
+rnozunit.F90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/rnozunit.F90
+END
+ghg_surfvals.F90
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/ghg_surfvals.F90
+END
+convtran.F90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/convtran.F90
+END
+trcab.F90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/trcab.F90
+END
+phys_idealized.F90
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/phys_idealized.F90
+END
+soxbnd.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/soxbnd.F90
+END
+caerbnd.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/caerbnd.F90
+END
+trcplk.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/trcplk.F90
+END
+aerosol_intr.F90
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/aerosol_intr.F90
+END
+advnce.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/advnce.F90
+END
+scyc.F90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/scyc.F90
+END
+test_tracers.F90
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/test_tracers.F90
+END
+cloudsimulator.F90.save
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/cloudsimulator.F90.save
+END
+ramp_ghg_bau.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/ramp_ghg_bau.h
+END
+trcpth.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/trcpth.F90
+END
+dust_sediment_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/dust_sediment_mod.F90
+END
+cldcond.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/cldcond.F90
+END
+cloudsimulator.F90
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/cloudsimulator.F90
+END
+radini.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/radini.F90
+END
+spmd_phys.F90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/spmd_phys.F90
+END
+virtem.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/virtem.F90
+END
+cloudsimulatorparms.F90
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/cloudsimulatorparms.F90
+END
+ramp_scon.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/ramp_scon.h
+END
+tphysac.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/tphysac.F90
+END
+zm_conv.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/zm_conv.F90
+END
+cldsav.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/cldsav.F90
+END
+sulfur_intr.F90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/sulfur_intr.F90
+END
+qneg3.F90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/qneg3.F90
+END
+radinp.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/radinp.F90
+END
+cldwat.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/cldwat.F90
+END
+comsrfdiag.F90
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/comsrfdiag.F90
+END
+qneg4.F90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/qneg4.F90
+END
+vertical_diffusion.F90
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/vertical_diffusion.F90
+END
+radclwmx.F90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/nnn/physics/cam1_exper/radclwmx.F90
+END

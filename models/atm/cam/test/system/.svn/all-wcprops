@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/test/system
+END
+dao_batch.csh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/test/system/dao_batch.csh
+END
+ncar_batch.csh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/test/system/ncar_batch.csh
+END
+cam_timing.pm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/test/system/cam_timing.pm
+END
+llnl_compass.csh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/test/system/llnl_compass.csh
+END
+llnl_blue.csh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/test/system/llnl_blue.csh
+END
+test-examples.pl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/test/system/test-examples.pl
+END
+nersc_batch.csh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/test/system/nersc_batch.csh
+END
+ornl_batch.csh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/test/system/ornl_batch.csh
+END
+test-model.pl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/test/system/test-model.pl
+END
+CAM_test.pm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/test/system/CAM_test.pm
+END
+llnl_frost.csh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/test/system/llnl_frost.csh
+END
+check-timing.pl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/test/system/check-timing.pl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/test/system/README
+END
+test-production.pl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/test/system/test-production.pl
+END

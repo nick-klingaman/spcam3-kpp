@@ -1,0 +1,18 @@
+
+Begin optimization report for: DP_COUPLING::D_P_COUPLING
+
+    Report from: OpenMP optimizations [openmp]
+
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp_intel/models/atm/cam/src/dynamics/sld/dp_coupling.F90(104,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp_intel/models/atm/cam/src/dynamics/sld/dp_coupling.F90(254,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+===========================================================================
+
+Begin optimization report for: DP_COUPLING::P_D_COUPLING
+
+    Report from: OpenMP optimizations [openmp]
+
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp_intel/models/atm/cam/src/dynamics/sld/dp_coupling.F90(352,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+===========================================================================

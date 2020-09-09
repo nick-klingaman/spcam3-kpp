@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atmlnd_share
+END
+cfort.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atmlnd_share/cfort.h
+END
+string_utils.F90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atmlnd_share/string_utils.F90
+END
+mpishorthand.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atmlnd_share/mpishorthand.F
+END
+infnan.F90
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atmlnd_share/infnan.F90
+END
+linebuf_stdout.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atmlnd_share/linebuf_stdout.c
+END
+endrun.F90
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atmlnd_share/endrun.F90
+END
+datetime.F90
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atmlnd_share/datetime.F90
+END
+wrap_nf.F90
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atmlnd_share/wrap_nf.F90
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/rs6000_64
+END
+base_variables
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/rs6000_64/base_variables
+END
+ESMF_conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/rs6000_64/ESMF_conf.h
+END
+machineinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/rs6000_64/machineinfo.h
+END
+base
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/rs6000_64/base
+END
+fix.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/rs6000_64/fix.h
+END
+base.site
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/rs6000_64/base.site
+END

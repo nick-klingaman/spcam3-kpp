@@ -1,0 +1,16 @@
+
+Begin optimization report for: ICE_GLOBALCALCS::SEA_ICE_ENERGY
+
+    Report from: OpenMP optimizations [openmp]
+
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp_intel/models/ice/csim4/ice_globalcalcs.F90(58,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+===========================================================================
+
+Begin optimization report for: ICE_GLOBALCALCS::GMEAN_ICE
+
+    Report from: OpenMP optimizations [openmp]
+
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp_intel/models/ice/csim4/ice_globalcalcs.F90(161,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+===========================================================================

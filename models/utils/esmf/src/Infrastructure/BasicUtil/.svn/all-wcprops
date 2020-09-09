@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/src/Infrastructure/BasicUtil
+END
+ESMC_BasicUtil.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/src/Infrastructure/BasicUtil/ESMC_BasicUtil.c
+END
+ESMF_BasicUtilMod.F
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/src/Infrastructure/BasicUtil/ESMF_BasicUtilMod.F
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/src/Infrastructure/BasicUtil/makefile
+END

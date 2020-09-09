@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/csm_share/unit_testers
+END
+test_shr_sys.F90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/csm_share/unit_testers/test_shr_sys.F90
+END
+test_shr_orb.F90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/csm_share/unit_testers/test_shr_orb.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/csm_share/unit_testers/Makefile
+END

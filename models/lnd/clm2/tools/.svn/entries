@@ -1,0 +1,40 @@
+10
+
+dir
+350
+https://svn.sdsc.edu/repo/cmmap/cam3_sp/branches/pritchard/models/lnd/clm2/tools
+https://svn.sdsc.edu/repo/cmmap
+
+
+
+2012-01-25T21:56:38.108481Z
+80
+mbranson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d340fac9-8071-0410-8926-86793a3c882d
+
+makdep
+dir
+
+cprlndnc
+dir
+
+convert_ascii
+dir
+
+CVS
+dir
+

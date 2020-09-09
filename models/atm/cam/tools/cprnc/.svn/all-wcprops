@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/cprnc
+END
+cprtps.F
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/cprnc/cprtps.F
+END
+lenchr.F
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/cprnc/lenchr.F
+END
+printstats.F
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/cprnc/printstats.F
+END
+wrap_nf.F
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/cprnc/wrap_nf.F
+END
+stats.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/cprnc/stats.F
+END
+shr_kind_mod.F
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/cprnc/shr_kind_mod.F
+END
+ismax.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/cprnc/ismax.F
+END
+initstats.F
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/cprnc/initstats.F
+END
+nldat.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/cprnc/nldat.F
+END
+cpr.F
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/cprnc/cpr.F
+END
+prhddiff.F
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/cprnc/prhddiff.F
+END
+header.F
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/cprnc/header.F
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/cprnc/Makefile
+END
+plevs0.F
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/cprnc/plevs0.F
+END

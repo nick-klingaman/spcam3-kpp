@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpaerosols
+END
+globals.f90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpaerosols/globals.f90
+END
+CREATE_DIMS_T42.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpaerosols/CREATE_DIMS_T42.ncl
+END
+regrid.T42.nc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpaerosols/regrid.T42.nc
+END
+prec.f90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpaerosols/prec.f90
+END
+REGRID.pl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpaerosols/REGRID.pl
+END
+CREATE_DIMS_GAU.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpaerosols/CREATE_DIMS_GAU.ncl
+END
+fmain.f90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpaerosols/fmain.f90
+END
+CREATE_DIMS_REG.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpaerosols/CREATE_DIMS_REG.ncl
+END
+preserve_mean.f90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpaerosols/preserve_mean.f90
+END
+driver.f90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpaerosols/driver.f90
+END
+wrap_nf.f90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpaerosols/wrap_nf.f90
+END
+bilin.f90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpaerosols/bilin.f90
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpaerosols/README
+END
+globals.mod
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpaerosols/globals.mod
+END
+addglobal.f90
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpaerosols/addglobal.f90
+END
+prec.mod
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpaerosols/prec.mod
+END
+preserve_mean.mod
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpaerosols/preserve_mean.mod
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/tools/interpaerosols/Makefile
+END

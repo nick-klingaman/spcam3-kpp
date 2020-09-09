@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repo/cmmap/!svn/ver/350/cam3_sp/branches/pritchard/models/atm/cam
+END
+build-spsld-hopper-intel.csh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/cmmap/!svn/ver/356/cam3_sp/branches/pritchard/models/atm/cam/build-spsld-hopper-intel.csh
+END
+build-mmf-tundra.csh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/build-mmf-tundra.csh
+END
+build-spsld-hopper-pgi.csh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/356/cam3_sp/branches/pritchard/models/atm/cam/build-spsld-hopper-pgi.csh
+END
+build-stdsld-datastar.csh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/build-stdsld-datastar.csh
+END
+make_spcam3.0_kraken.csh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/make_spcam3.0_kraken.csh
+END
+build-mmf-datastar.csh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/build-mmf-datastar.csh
+END
+mkDepends
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/mkDepends
+END

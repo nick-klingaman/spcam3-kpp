@@ -1,0 +1,4 @@
+#include <misc.h>
+#include <params.h>
+
+SUBROUTINE mckpp_coupling_cam3_initialize(kpp_global_fields,kpp_const_fields)

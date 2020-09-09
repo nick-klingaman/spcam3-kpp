@@ -1,0 +1,15 @@
+MODULE mckpp_types
+  
+  USE shr_kind_mod,only: r8 => shr_kind_r8, r4=>shr_kind_r4
+  USE ppgrid,      only: pcols,begchunk,endchunk
+  USE phys_grid,   only: get_ncols_p
+  
+#include <parameter.inc>
+#include <kpp_timer.com>
+  
+  IMPLICIT NONE
+  
+  PUBLIC initialize_mckpp
+  PUBLIC kpp_3d_type
+  PUBLIC kpp_1d_type
+  PUBLIC kpp_const_fields

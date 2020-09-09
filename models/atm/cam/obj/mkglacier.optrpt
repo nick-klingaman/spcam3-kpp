@@ -1,0 +1,8 @@
+
+Begin optimization report for: MKGLACIER
+
+    Report from: OpenMP optimizations [openmp]
+
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp/models/lnd/clm2/src/mksrfdata/mkglacier.F90(198,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+===========================================================================

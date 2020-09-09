@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/include
+END
+ESMC_Version.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/include/ESMC_Version.h
+END
+ESMC_TOD.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/include/ESMC_TOD.h
+END
+ESMC_Error.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/include/ESMC_Error.h
+END
+ESMC_Alarm.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/include/ESMC_Alarm.h
+END
+ESMC_Time.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/include/ESMC_Time.h
+END
+ESMC_TimeMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/include/ESMC_TimeMgr.h
+END
+ESMC_Machine.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/include/ESMC_Machine.h
+END
+ESMC_Calendar.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/include/ESMC_Calendar.h
+END
+ESMC_Constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/include/ESMC_Constants.h
+END
+ESMC_Date.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/include/ESMC_Date.h
+END
+ESMC_BasicUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/include/ESMC_BasicUtil.h
+END
+ESMC_Timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/include/ESMC_Timer.h
+END
+ESMC_App.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/include/ESMC_App.h
+END
+ESMC.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/include/ESMC.h
+END
+ESMC_Log.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/include/ESMC_Log.h
+END
+ESMC_TimeMgmtUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/include/ESMC_TimeMgmtUtil.h
+END

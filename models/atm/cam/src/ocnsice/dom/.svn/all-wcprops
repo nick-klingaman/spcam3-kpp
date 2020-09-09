@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/cmmap/!svn/ver/349/cam3_sp/branches/pritchard/models/atm/cam/src/ocnsice/dom
+END
+sst_data.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/cmmap/!svn/ver/349/cam3_sp/branches/pritchard/models/atm/cam/src/ocnsice/dom/sst_data.F90
+END
+albocean.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/ocnsice/dom/albocean.F90
+END
+mtdlss.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/ocnsice/dom/mtdlss.F90
+END
+camoce.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/ocnsice/dom/camoce.F90
+END
+print_coverage.F90
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/ocnsice/dom/print_coverage.F90
+END
+parpbl.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/ocnsice/dom/parpbl.h
+END
+albedo.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/ocnsice/dom/albedo.h
+END
+flxoce.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/ocnsice/dom/flxoce.F90
+END
+srfoce.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/ocnsice/dom/srfoce.F90
+END

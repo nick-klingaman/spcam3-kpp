@@ -1,0 +1,38 @@
+static char *machineinfo = "    \n\
+Libraries compiled on Fri Jan 24 14:34:50 PST 2014 on hopper12   \n\
+Machine characteristics: Linux hopper12 2.6.32.59-0.7-default #1 SMP 2012-07-13 15:50:56 +0200 x86_64 x86_64 x86_64 GNU/Linux   \n\
+-----------------------------------------  \n\
+Using C compiler: cc  -O  -I/global/u1/m/mbranson/cam3_sp_pritchard/pritchard/models/utils/esmf -I/global/u1/m/mbranson/cam3_sp_pritchard/pritchard/models/utils/esmf/src/include -I/global/u1/m/mbranson/cam3_sp_pritchard/pritchard/models/utils/esmf/build/linux_intel -I/global/u1/m/mbranson/cam3_sp_pritchard/pritchard/models/utils/esmf/include   -I/global/u1/m/mbranson/cam3_sp_pritchard/pritchard/models/utils/esmf/src/Infrastructure/mpiuni                          -D__SDIR__=''   \n\
+C Compiler version:  \n\
+/opt/cray/xt-asyncpe/5.23/bin/cc: INFO: Compiling with CRAYPE_COMPILE_TARGET=native.  \n\
+icc (ICC) 13.1.3 20130607  \n\
+Copyright (C) 1985-2013 Intel Corporation.  All rights reserved.  \n\
+  \n\
+C++ Compiler version:  \n\
+/opt/cray/xt-asyncpe/5.23/bin/CC: INFO: Compiling with CRAYPE_COMPILE_TARGET=native.  \n\
+icpc (ICC) 13.1.3 20130607  \n\
+Copyright (C) 1985-2013 Intel Corporation.  All rights reserved.  \n\
+  \n\
+Using Fortran compiler: ftn -O -I/global/u1/m/mbranson/cam3_sp_pritchard/pritchard/models/utils/esmf -I/global/u1/m/mbranson/cam3_sp_pritchard/pritchard/models/utils/esmf/src/include -I/global/u1/m/mbranson/cam3_sp_pritchard/pritchard/models/utils/esmf/build/linux_intel -I/global/u1/m/mbranson/cam3_sp_pritchard/pritchard/models/utils/esmf/include   -I/global/u1/m/mbranson/cam3_sp_pritchard/pritchard/models/utils/esmf/src/Infrastructure/mpiuni                           \n\
+Fortran Compiler version:  \n\
+# Special Targeting Options  \n\
+#  \n\
+# -target=compute_node  Generate code executable on Cray hardware. This is the default.  \n\
+# -target=local_host    Generate code executable on esLogin node or cross compile machine. The   \n\
+#         resulting code will not link in network (portals, uGNI, etc.), communication (mpich, shmem, etc.),  \n\
+#         or ALPS libraries that are needed to execute on Cray compute nodes.  \n\
+# -target=native        Generate code directly from the chosen compiler without adding any module-generated information.  \n\
+#  \n\
+-----------------------------------------  \n\
+Using ESMF flags:                       \n\
+-----------------------------------------  \n\
+Using configuration flags:  \n\
+-----------------------------------------  \n\
+Using include paths: -I/global/u1/m/mbranson/cam3_sp_pritchard/pritchard/models/utils/esmf -I/global/u1/m/mbranson/cam3_sp_pritchard/pritchard/models/utils/esmf/src/include -I/global/u1/m/mbranson/cam3_sp_pritchard/pritchard/models/utils/esmf/build/linux_intel -I/global/u1/m/mbranson/cam3_sp_pritchard/pritchard/models/utils/esmf/include   -I/global/u1/m/mbranson/cam3_sp_pritchard/pritchard/models/utils/esmf/src/Infrastructure/mpiuni    \n\
+-----------------------------------------  \n\
+Using ESMF directory: /global/u1/m/mbranson/cam3_sp_pritchard/pritchard/models/utils/esmf  \n\
+Using ESMF arch: linux_intel  \n\
+------------------------------------------  \n\
+Using C linker: cc -O  -Wl,-rpath,/global/u1/m/mbranson/cam3_sp_pritchard/pritchard/models/atm/cam/obj/esmf/lib/libO/linux_intel   \n\
+Using Fortran linker: ftn -O -Wl,-rpath,/global/u1/m/mbranson/cam3_sp_pritchard/pritchard/models/atm/cam/obj/esmf/lib/libO/linux_intel   \n\
+Using libraries: -L/global/u1/m/mbranson/cam3_sp_pritchard/pritchard/models/atm/cam/obj/esmf/lib/libO/linux_intel "; 

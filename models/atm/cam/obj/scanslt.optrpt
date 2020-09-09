@@ -1,0 +1,8 @@
+
+Begin optimization report for: SCANSLT_FFT
+
+    Report from: OpenMP optimizations [openmp]
+
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp_intel/models/atm/cam/src/dynamics/sld/scanslt.F90(824,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+===========================================================================

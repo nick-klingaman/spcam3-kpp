@@ -1,0 +1,14 @@
+
+Begin optimization report for: SCAN2
+
+    Report from: OpenMP optimizations [openmp]
+
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp_intel/models/atm/cam/src/dynamics/sld/scan2.F90(244,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp_intel/models/atm/cam/src/dynamics/sld/scan2.F90(299,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp_intel/models/atm/cam/src/dynamics/sld/scan2.F90(336,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp_intel/models/atm/cam/src/dynamics/sld/scan2.F90(484,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+===========================================================================

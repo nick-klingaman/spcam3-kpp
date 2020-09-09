@@ -1,0 +1,30 @@
+
+Begin optimization report for: LP_COUPLING::ALLTOALL_CLUMP_TO_CHUNK
+
+    Report from: OpenMP optimizations [openmp]
+
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp/models/lnd/clm2/src/main/lp_coupling.F90(527,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp/models/lnd/clm2/src/main/lp_coupling.F90(593,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+===========================================================================
+
+Begin optimization report for: LP_COUPLING::ALLTOALL_CHUNK_TO_CLUMP
+
+    Report from: OpenMP optimizations [openmp]
+
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp/models/lnd/clm2/src/main/lp_coupling.F90(682,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp/models/lnd/clm2/src/main/lp_coupling.F90(758,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+===========================================================================
+
+Begin optimization report for: LP_COUPLING::ALLTOALL_CLUMP_TO_CHUNK_INIT
+
+    Report from: OpenMP optimizations [openmp]
+
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp/models/lnd/clm2/src/main/lp_coupling.F90(379,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp/models/lnd/clm2/src/main/lp_coupling.F90(445,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+===========================================================================

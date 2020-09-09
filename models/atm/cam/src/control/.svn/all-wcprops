@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/cmmap/!svn/ver/348/cam3_sp/branches/pritchard/models/atm/cam/src/control
+END
+initext.F90
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/348/cam3_sp/branches/pritchard/models/atm/cam/src/control/initext.F90
+END
+readinitial.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/readinitial.F90
+END
+comlun.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/comlun.h
+END
+ptrrgrid.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/ptrrgrid.h
+END
+runtime_opts.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/cmmap/!svn/ver/351/cam3_sp/branches/pritchard/models/atm/cam/src/control/runtime_opts.F90
+END
+time_manager.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/time_manager.F90
+END
+ccsm_msg.F90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/ccsm_msg.F90
+END
+bilin.F90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/bilin.F90
+END
+radozn.F90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/radozn.F90
+END
+cam.F90
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/276/cam3_sp/branches/pritchard/models/atm/cam/src/control/cam.F90
+END
+lininterp.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/lininterp.F90
+END
+comtfc.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/comtfc.h
+END
+comozp.F90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/comozp.F90
+END
+rgrid.F90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/rgrid.F90
+END
+intp_util.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/intp_util.F90
+END
+comfft.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/comfft.h
+END
+bnddyi.F90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/bnddyi.F90
+END
+comctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/comctl.h
+END
+comqfl.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/comqfl.h
+END
+analyses.F90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/analyses.F90
+END
+spmd_utils.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/spmd_utils.F90
+END
+restart.F90
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/343/cam3_sp/branches/pritchard/models/atm/cam/src/control/restart.F90
+END
+get_memusage.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/get_memusage.c
+END
+spmdinit.F90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/spmdinit.F90
+END
+so4bnd.F90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/so4bnd.F90
+END
+comhd.F90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/comhd.F90
+END
+decompinit.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/decompinit.F90
+END
+system_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/system_cmd.c
+END
+srchutil.F90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/srchutil.F90
+END
+pspect.F90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/pspect.F90
+END
+history.F90
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/352/cam3_sp/branches/pritchard/models/atm/cam/src/control/history.F90
+END
+units.F90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/units.F90
+END
+vertinterp.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/vertinterp.F90
+END
+gauaw_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/gauaw_mod.F90
+END
+filenames.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/338/cam3_sp/branches/pritchard/models/atm/cam/src/control/filenames.F90
+END
+oznini.F90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/oznini.F90
+END
+ioFileMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/ioFileMod.F90
+END
+vrtmap.F90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/vrtmap.F90
+END
+comhyb.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/comhyb.h
+END
+binary_io.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/binary_io.F90
+END
+perturb.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/perturb.h
+END
+iostop.F90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/iostop.F90
+END
+hycoef.F90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/hycoef.F90
+END
+wrap_mpi.F90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/wrap_mpi.F90
+END
+print_memusage.F90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/print_memusage.F90
+END
+error_messages.F90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/error_messages.F90
+END
+oznint.F90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/oznint.F90
+END
+rstwr.F90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/control/rstwr.F90
+END

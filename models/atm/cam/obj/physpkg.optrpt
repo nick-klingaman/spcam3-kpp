@@ -1,0 +1,14 @@
+
+Begin optimization report for: PHYSPKG
+
+    Report from: OpenMP optimizations [openmp]
+
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp_intel/models/atm/cam/src/physics/cam1/physpkg.F90(212,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp_intel/models/atm/cam/src/physics/cam1/physpkg.F90(320,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp_intel/models/atm/cam/src/physics/cam1/physpkg.F90(469,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp_intel/models/atm/cam/src/physics/cam1/physpkg.F90(599,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+===========================================================================

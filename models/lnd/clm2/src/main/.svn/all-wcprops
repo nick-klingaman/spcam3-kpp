@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main
+END
+lnd_grid.F90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/lnd_grid.F90
+END
+inicFileMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/inicFileMod.F90
+END
+clm_varcon.F90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/clm_varcon.F90
+END
+clmpoint.F90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/clmpoint.F90
+END
+clm_mapping.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/clm_mapping.F90
+END
+clm_varpar.F90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/clm_varpar.F90
+END
+time_manager.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/time_manager.F90
+END
+accumulMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/accumulMod.F90
+END
+pft2columnMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/pft2columnMod.F90
+END
+driver.F90
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/driver.F90
+END
+getdatetime.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/getdatetime.F90
+END
+atmdrvMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/atmdrvMod.F90
+END
+mapxy.F90
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/mapxy.F90
+END
+mvegFileMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/mvegFileMod.F90
+END
+accFldsMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/accFldsMod.F90
+END
+fileutils.F90
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/fileutils.F90
+END
+initializeMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/initializeMod.F90
+END
+clmtypeInitMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/clmtypeInitMod.F90
+END
+iniTimeConst.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/iniTimeConst.F90
+END
+iniTimeVar.F90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/iniTimeVar.F90
+END
+histFileMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/histFileMod.F90
+END
+program_csm.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/program_csm.F90
+END
+do_restwrite.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/do_restwrite.F90
+END
+lp_coupling.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/lp_coupling.F90
+END
+system_messages.F90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/system_messages.F90
+END
+clm_csmMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/clm_csmMod.F90
+END
+clm_varsur.F90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/clm_varsur.F90
+END
+restFileMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/restFileMod.F90
+END
+atm_lndMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/atm_lndMod.F90
+END
+surfFileMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/surfFileMod.F90
+END
+controlMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/controlMod.F90
+END
+globals.F90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/globals.F90
+END
+clm_varctl.F90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/clm_varctl.F90
+END
+system_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/system_cmd.c
+END
+lnd2atmMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/lnd2atmMod.F90
+END
+program_off.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/program_off.F90
+END
+pftvarcon.F90
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/pftvarcon.F90
+END
+snowdp2lev.F90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/snowdp2lev.F90
+END
+spmdMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/spmdMod.F90
+END
+areaMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/areaMod.F90
+END
+iobinary.F90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/iobinary.F90
+END
+nanMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/nanMod.F90
+END
+do_close_dispose.F90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/do_close_dispose.F90
+END
+clmtype.F90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/clmtype.F90
+END
+mpiinc.F90
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/mpiinc.F90
+END
+histFldsMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/src/main/histFldsMod.F90
+END

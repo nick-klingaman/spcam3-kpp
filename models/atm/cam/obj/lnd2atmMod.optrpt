@@ -1,0 +1,10 @@
+
+Begin optimization report for: LND2ATMMOD::LND2ATM
+
+    Report from: OpenMP optimizations [openmp]
+
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp/models/lnd/clm2/src/main/lnd2atmMod.F90(123,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp/models/lnd/clm2/src/main/lnd2atmMod.F90(155,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+===========================================================================

@@ -1,0 +1,10 @@
+
+Begin optimization report for: HISTORY::WSHIST
+
+    Report from: OpenMP optimizations [openmp]
+
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp_intel/models/atm/cam/src/control/history.F90(4426,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+OpenMP Construct at /home2/n02/n02/pappas/src/cam3_sp_intel/models/atm/cam/src/control/history.F90(4455,7)
+   remark #16200: OpenMP DEFINED LOOP WAS PARALLELIZED
+===========================================================================

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/utils
+END
+sgexx.F
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/utils/sgexx.F
+END
+sortarray.F90
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/utils/sortarray.F90
+END
+abortutils.F90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/utils/abortutils.F90
+END
+fft99.F
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/utils/fft99.F
+END
+findvalue.F90
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/utils/findvalue.F90
+END

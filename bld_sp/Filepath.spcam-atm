@@ -1,0 +1,17 @@
+/home2/n02/n02/pappas/src/cam3_sp_intel/models/atm/cam/src/physics/cam1
+/home2/n02/n02/pappas/src/cam3_sp_intel/models/atm/cam/src/physics/crm
+/home2/n02/n02/pappas/src/cam3_sp_intel/models/atm/cam/src/dynamics/sld
+/home2/n02/n02/pappas/src/cam3_sp_intel/models/atm/cam/src/control
+/home2/n02/n02/pappas/src/cam3_sp_intel/models/atmlnd_share
+/home2/n02/n02/pappas/src/cam3_sp_intel/models/csm_share
+/home2/n02/n02/pappas/src/cam3_sp_intel/models/atm/cam/src/utils
+/home2/n02/n02/pappas/src/cam3_sp_intel/models/utils/timing
+/home2/n02/n02/pappas/src/cam3_sp_intel/models/atm/cam/src/advection/slt
+/home2/n02/n02/pappas/src/cam3_sp_intel/models/atm/cam/src/ocnsice/dom
+/home2/n02/n02/pappas/src/cam3_sp_intel/models/lnd/clm2/src/main
+/home2/n02/n02/pappas/src/cam3_sp_intel/models/lnd/clm2/src/biogeophys
+/home2/n02/n02/pappas/src/cam3_sp_intel/models/lnd/clm2/src/biogeochem
+/home2/n02/n02/pappas/src/cam3_sp_intel/models/lnd/clm2/src/mksrfdata
+/home2/n02/n02/pappas/src/cam3_sp_intel/models/lnd/clm2/src/ecosysdyn
+/home2/n02/n02/pappas/src/cam3_sp_intel/models/lnd/clm2/src/riverroute
+/home2/n02/n02/pappas/src/cam3_sp_intel/models/ice/csim4

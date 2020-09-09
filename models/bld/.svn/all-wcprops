@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/bld
+END
+Macros.Linux
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/bld/Macros.Linux
+END
+makdep.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/bld/makdep.c
+END
+Macros.AIX
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/bld/Macros.AIX
+END
+Macros.IRIX64
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/bld/Macros.IRIX64
+END
+Macros.OSF1
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/bld/Macros.OSF1
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/bld/Makefile
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/IRIX64
+END
+buildtest
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/IRIX64/buildtest
+END
+base_variables
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/IRIX64/base_variables
+END
+ESMF_conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/IRIX64/ESMF_conf.h
+END
+base
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/IRIX64/base
+END
+fix.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/IRIX64/fix.h
+END
+base.site
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/build/IRIX64/base.site
+END

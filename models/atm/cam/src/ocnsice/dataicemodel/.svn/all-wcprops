@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/349/cam3_sp/branches/pritchard/models/atm/cam/src/ocnsice/dataicemodel
+END
+ice_dh.F
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/ocnsice/dataicemodel/ice_dh.F
+END
+srftsb.F90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/ocnsice/dataicemodel/srftsb.F90
+END
+ice_data.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/cmmap/!svn/ver/349/cam3_sp/branches/pritchard/models/atm/cam/src/ocnsice/dataicemodel/ice_data.F90
+END
+ice_constants.F90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/ocnsice/dataicemodel/ice_constants.F90
+END
+flxsice.F90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/ocnsice/dataicemodel/flxsice.F90
+END
+srfsice.F90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/ocnsice/dataicemodel/srfsice.F90
+END
+albice.F90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/ocnsice/dataicemodel/albice.F90
+END
+camice.F90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/src/ocnsice/dataicemodel/camice.F90
+END

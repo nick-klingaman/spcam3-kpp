@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/tools/convert_ascii
+END
+convert_vegtype.F90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/tools/convert_ascii/convert_vegtype.F90
+END
+convert_lai.F90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/tools/convert_ascii/convert_lai.F90
+END
+convert_glacier.F90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/tools/convert_ascii/convert_glacier.F90
+END
+convert_lanwat.F90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/tools/convert_ascii/convert_lanwat.F90
+END
+convert_urban.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/tools/convert_ascii/convert_urban.F90
+END
+convert_soicol.F90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/tools/convert_ascii/convert_soicol.F90
+END
+convert_pft.F90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/tools/convert_ascii/convert_pft.F90
+END
+convert_soitex.F90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/tools/convert_ascii/convert_soitex.F90
+END
+convert_irrig.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/tools/convert_ascii/convert_irrig.F90
+END
+convert_navyoro.F90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/tools/convert_ascii/convert_navyoro.F90
+END
+convert_navytopo.F90
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/tools/convert_ascii/convert_navytopo.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/lnd/clm2/tools/convert_ascii/Makefile
+END

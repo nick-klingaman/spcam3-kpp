@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/ChangeLog
+END
+ChangeSum
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/ChangeSum
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/README
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/utils/esmf/makefile
+END

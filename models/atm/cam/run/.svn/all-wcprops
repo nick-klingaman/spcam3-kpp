@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/run
+END
+namelist_sp_amip.orig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/run/namelist_sp_amip.orig
+END
+llsubmit_datastar.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/run/llsubmit_datastar.ll
+END
+llsubmit_datastar.ll.inter
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/run/llsubmit_datastar.ll.inter
+END
+namelist_sp_amip
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/run/namelist_sp_amip
+END
+namelist_std
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/run/namelist_std
+END
+runinter
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/run/runinter
+END
+namelist_sp_climosst
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/run/namelist_sp_climosst
+END
+namelist
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/cmmap/!svn/ver/209/cam3_sp/branches/pritchard/models/atm/cam/run/namelist
+END
